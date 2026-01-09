@@ -115,7 +115,7 @@ A segmentação considera simultaneamente R, F e M, garantindo uma visão mais f
 ## 👤 Autor
 
 Diego Rodrigues
-Analista em formação com foco em Dados, BI e Analytics
+Profissional com foco em Dados, BI e Analytics
 
 ---
 
